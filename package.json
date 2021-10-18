@@ -2,7 +2,7 @@
   "name": "food-order-app",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://simplysayhi.github.io",
+  "homepage": "https://simplysayhi.github.io/food-order-app",
   "dependencies": {
     "@craco/craco": "^6.3.0",
     "@reduxjs/toolkit": "^1.6.2",
